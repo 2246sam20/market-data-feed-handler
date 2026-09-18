@@ -1,0 +1,5 @@
+build/
+callgrind.out.*
+core
+core.*
+vgcore.*
