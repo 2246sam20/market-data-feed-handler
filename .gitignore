@@ -3,3 +3,6 @@ callgrind.out.*
 core
 core.*
 vgcore.*
+
+# Mock-interview weak-spot log: private, this repo is public.
+notes/
